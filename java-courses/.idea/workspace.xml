@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7b10eaa-a85b-48c3-9f3e-069d0c9dcd67" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/artifacts/clinic_pet_web_ear_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/artifacts/clinic_pet_web_ear_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/artifacts/clinic_pet_web_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/artifacts/clinic_pet_web_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/artifacts/clinic_pet_web_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/artifacts/clinic_pet_web_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/artifacts/clinic_pet_web_war_exploded2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/artifacts/clinic_pet_web_war_exploded2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/artifacts/df_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/artifacts/df_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/artifacts/fff_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/artifacts/fff_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/libraries/Maven__by_guru13_se_1_0_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/libraries/Maven__by_guru13_se_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/libraries/Maven__commons_lang_commons_lang_2_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/libraries/Maven__commons_lang_commons_lang_2_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_1_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/libraries/Maven__org_codehaus_plexus_plexus_utils_1_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/libraries/junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/clinic-pet-web.iml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/clinic-pet-web.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/src/main/java/by/guru13/servlets/ClinicServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/src/main/java/by/guru13/servlets/ClinicServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/target/ClinicPetWeb.war" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/target/ClinicPetWeb.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/target/ClinicPetWeb/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/target/ClinicPetWeb/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/target/ClinicPetWeb/WEB-INF/classes/by/guru13/servlets/ClinicServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/target/ClinicPetWeb/WEB-INF/classes/by/guru13/servlets/ClinicServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/target/ClinicPetWeb/WEB-INF/lib/commons-lang-2.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/target/ClinicPetWeb/WEB-INF/lib/commons-lang-2.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/target/ClinicPetWeb/WEB-INF/lib/plexus-utils-1.1.jar" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/target/ClinicPetWeb/WEB-INF/lib/plexus-utils-1.1.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/target/ClinicPetWeb/WEB-INF/lib/se-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/target/ClinicPetWeb/WEB-INF/lib/se-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/target/ClinicPetWeb/WEB-INF/lib/servlet-api-2.5.jar" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/target/ClinicPetWeb/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/target/ClinicPetWeb/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/target/ClinicPetWeb/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/target/classes/by/guru13/servlets/ClinicServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/target/classes/by/guru13/servlets/ClinicServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/clinic-pet-web/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/clinic-pet-web/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/javaCourses.iml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/javaCourses.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/out/artifacts/clinic_pet_web_war_exploded/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/out/artifacts/clinic_pet_web_war_exploded/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/se.iml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/se.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/calculator/ArgRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/calculator/ArgRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/calculator/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/calculator/Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/calculator/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/calculator/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/calculator/InteractRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/calculator/InteractRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/calculator/UserException.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/calculator/UserException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Clinic.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Clinic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/clinic/ClinicRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/clinic/ClinicRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Emulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Emulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Parot.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Parot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/clinic/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/clinic/SimpleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/clinic/SimpleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/clinic/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/clinic/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/clinic/UserException.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/clinic/UserException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/collections/linkedList/SimpleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/collections/linkedList/SimpleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/collections/linkedList/SimpleLinkedListRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/collections/linkedList/SimpleLinkedListRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/lesson12Threads/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/lesson12Threads/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/users/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/users/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/main/java/by/guru13/lessons/users/UserRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/main/java/by/guru13/lessons/users/UserRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/src/test/java/by/guru13/lessons/clinic/ClinicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/src/test/java/by/guru13/lessons/clinic/ClinicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/calculator/ArgRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/calculator/ArgRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/calculator/Calculate.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/calculator/Calculate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/calculator/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/calculator/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/calculator/InteractRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/calculator/InteractRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/calculator/UserException.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/calculator/UserException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/Clinic.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/Clinic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/ClinicRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/ClinicRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/Emulator.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/Emulator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/Parot.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/Parot.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/Pet.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/Pet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/SimpleLinkedList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/SimpleLinkedList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/SimpleLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/SimpleLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/SimpleLinkedList$SllIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/SimpleLinkedList$SllIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/SimpleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/SimpleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/clinic/UserException.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/clinic/UserException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/collections/linkedList/SimpleLinkedList$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/collections/linkedList/SimpleLinkedList$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/collections/linkedList/SimpleLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/collections/linkedList/SimpleLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/collections/linkedList/SimpleLinkedList$SllIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/collections/linkedList/SimpleLinkedList$SllIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/collections/linkedList/SimpleLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/collections/linkedList/SimpleLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/collections/linkedList/SimpleLinkedListRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/collections/linkedList/SimpleLinkedListRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/lesson12Threads/Counter.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/lesson12Threads/Counter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/users/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/users/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/classes/by/guru13/lessons/users/UserRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/classes/by/guru13/lessons/users/UserRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/se-2.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/se-2.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/surefire-reports/TEST-by.guru13.lessons.clinic.ClinicTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/surefire-reports/TEST-by.guru13.lessons.clinic.ClinicTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/surefire-reports/by.guru13.lessons.clinic.ClinicTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/surefire-reports/by.guru13.lessons.clinic.ClinicTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/se/target/test-classes/by/guru13/lessons/clinic/ClinicTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/se/target/test-classes/by/guru13/lessons/clinic/ClinicTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/by/guru13/lessons/lesson13/BaseAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/by/guru13/lessons/lesson13/BaseAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/by/guru13/lessons/lesson13/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/by/guru13/lessons/lesson13/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/by/guru13/lessons/lesson13/Cell.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/by/guru13/lessons/lesson13/Cell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/by/guru13/lessons/lesson13/GeneratorBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/by/guru13/lessons/lesson13/GeneratorBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/by/guru13/lessons/lesson13/SaperLogic.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/by/guru13/lessons/lesson13/SaperLogic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/by/guru13/lessons/lesson13/UserAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/by/guru13/lessons/lesson13/UserAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/by/guru13/lessons/lesson13/console/ConsoleBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/by/guru13/lessons/lesson13/console/ConsoleBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/by/guru13/lessons/lesson13/console/ConsoleCell.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/by/guru13/lessons/lesson13/console/ConsoleCell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/by/guru13/lessons/lesson13/logic/Easy.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/by/guru13/lessons/lesson13/logic/Easy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/by/guru13/lessons/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/by/guru13/lessons/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/main/java/by/guru13/lessons/lesson13/gui/GUIAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/main/java/by/guru13/lessons/lesson13/gui/GUIAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/main/java/by/guru13/lessons/lesson13/gui/GUIBoard.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/main/java/by/guru13/lessons/lesson13/gui/GUIBoard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/main/java/by/guru13/lessons/lesson13/gui/GUICell.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/main/java/by/guru13/lessons/lesson13/gui/GUICell.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/main/java/by/guru13/lessons/lesson13/gui/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/main/java/by/guru13/lessons/lesson13/gui/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaCourses/src/test/java/by/guru13/lessons/lesson13/BaseActionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/clinic_Maven/src/test/java/by/javaCourses/src/test/java/by/guru13/lessons/lesson13/BaseActionTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1708959108">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clinic_Maven/src/test/java/by/guru13/clinic/ClinicTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clinic_Maven/src/main/java/by/guru13/clinic/UserException.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clinic_Maven/src/main/java/by/guru13/clinic/User.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clinic_Maven/src/main/java/by/guru13/clinic/SimpleLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clinic_Maven/src/main/java/by/guru13/clinic/Pet.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clinic_Maven/src/main/java/by/guru13/clinic/Parot.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clinic_Maven/src/main/java/by/guru13/clinic/Emulator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="340" />
+    <option name="y" value="462" />
+    <option name="width" value="1339" />
+    <option name="height" value="763" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java-courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-courses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-courses" type="462c0819:PsiDirectoryNode" />
+              <item name="clinic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-courses" type="462c0819:PsiDirectoryNode" />
+              <item name="clinic_Maven" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-courses" type="462c0819:PsiDirectoryNode" />
+              <item name="clinic_Maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-courses" type="462c0819:PsiDirectoryNode" />
+              <item name="clinic_Maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-courses" type="462c0819:PsiDirectoryNode" />
+              <item name="clinic_Maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-courses" type="462c0819:PsiDirectoryNode" />
+              <item name="clinic_Maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-courses" type="462c0819:PsiDirectoryNode" />
+              <item name="clinic_Maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="guru13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-courses" type="462c0819:PsiDirectoryNode" />
+              <item name="clinic_Maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="by" type="462c0819:PsiDirectoryNode" />
+              <item name="guru13" type="462c0819:PsiDirectoryNode" />
+              <item name="clinic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-courses" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-courses" type="462c0819:PsiDirectoryNode" />
+              <item name="clinic_Maven" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543794384977" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Project_Java\java-courses\java-courses\clinic_Maven\src\test\java\by" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7b10eaa-a85b-48c3-9f3e-069d0c9dcd67" name="Default Changelist" comment="" />
+      <created>1543794260582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543794260582</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/clinic_Maven/src/test/java/by/guru13/clinic/ClinicTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinic_Maven/src/main/java/by/guru13/clinic/UserException.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinic_Maven/src/main/java/by/guru13/clinic/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinic_Maven/src/main/java/by/guru13/clinic/SimpleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinic_Maven/src/main/java/by/guru13/clinic/Pet.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinic_Maven/src/main/java/by/guru13/clinic/Parot.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clinic_Maven/src/main/java/by/guru13/clinic/Emulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
