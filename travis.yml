@@ -1,25 +1,5 @@
 language: java
-jdk: oraclejdk8
-install: true
-script: 
-  - ./mvnw clean install
+sudo: false # faster builds
+
+after_success:
   - bash <(curl -s https://codecov.io/bash)
-cache:
-  directories:
-  - $HOME/.m2
-        deploy:
-  -
-    on:
-      branch: release
-    provider: bintray
-    skip_cleanup: true
-    file: target/bin/bintray.json
-    user: nfrankel
-    key: $BINTRAY_API_KEY
-    branches: 
-    only: 
-    - master 
-    - travis
-    # run the script 
-script: "tsc -f specs/*" 
-cache: npm
