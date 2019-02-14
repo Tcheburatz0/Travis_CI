@@ -22,3 +22,4 @@ cache:
     - travis
     # run the script 
 script: "tsc -f specs/*" 
+cache: npm
