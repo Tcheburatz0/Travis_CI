@@ -16,3 +16,9 @@ cache:
     file: target/bin/bintray.json
     user: nfrankel
     key: $BINTRAY_API_KEY
+    branches: 
+    only: 
+    - master 
+    - travis
+    # run the script 
+script: "tsc -f specs/*" 
