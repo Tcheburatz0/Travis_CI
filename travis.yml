@@ -1,7 +1,24 @@
 language: java
-sudo: false
-before_install:
-  - sudo apt-get update
-  - sudo apt-get install -y libxml2-dev
-script: mvn clean verify
-        
+jdk: oraclejdk8
+install: true
+script: 
+  - ./mvnw clean install
+  - bash <(curl -s https://codecov.io/bash)
+cache:
+  directories:
+  - $HOME/.m2
+        deploy:
+  -
+    on:
+      branch: release
+    provider: bintray
+    skip_cleanup: true
+    file: target/bin/bintray.json
+    user: nfrankel
+    key: $BINTRAY_API_KEY
+    branches: 
+    only: 
+    - master 
+    - travis
+    # run the script 
+script: "tsc -f specs/*" 
