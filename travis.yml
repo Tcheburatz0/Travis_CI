@@ -1,7 +1,9 @@
 language: java
 sudo: false # faster builds
 
-script: "mvn cobertura:cobertura"
+script: 
+        -"mvn cobertura:cobertura"
+        - java src/test/java/com/mycompane/app/my/BlackBoxTests.java
 
 after_success:
   - bash <(curl -s https://codecov.io/bash) -t 3e4a33bb-a065-4471-81f3-15a6aa35d5ce
